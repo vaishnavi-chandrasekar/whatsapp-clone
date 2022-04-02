@@ -1,6 +1,0 @@
-{
-  "dependencies": {
-    "axios": "^0.26.1",
-    "pusher-js": "^7.0.6"
-  }
-}

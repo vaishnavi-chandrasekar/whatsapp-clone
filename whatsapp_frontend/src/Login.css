@@ -1,0 +1,51 @@
+.login{
+    width: 100%;
+    height: 100%;
+    position: fixed;
+}
+.login_form{
+    width: 100%;
+    height: 100%;
+    text-align: center;
+    border-color: aqua;
+    position: fixed;
+    margin-top: 5%;
+}
+.email,textarea{
+    font-size: large;
+    padding: 1%;
+    margin: 1%;
+    width: 30%;
+}
+.password,textarea{
+    font-size: large;
+    padding: 1%;
+    margin: 1%;
+    width: 30%;
+}
+.username,textarea{
+    
+        font-size: large;
+        padding: 1%;
+        margin: 1%;
+        width: 30%;
+    
+    
+}
+.Phone,textarea{
+    font-size: large;
+        padding: 1%;
+        margin: 1%;
+        width: 30%;
+}
+.header{
+    text-align: center;
+    font-family: Roboto;
+    margin: 2%;
+}
+.btn{
+    background-color:#4788c9;;
+    font-size: 1.3rem;
+    margin: 2%;
+    color: white;
+}

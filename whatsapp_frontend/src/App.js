@@ -41,7 +41,7 @@ function App() {
     };
   }, [messages]);
 
-  console.log(messages);
+  console.log (messages);
   const [user, setuser] = useState();
   return (
     <div className="App">
